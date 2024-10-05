@@ -1,5 +1,6 @@
-## Hi there 👋
-# lakshmy here
+# Hi there 👋
+## lakshmy here
+### hello
 <!--
 **Lakshmy-CS/Lakshmy-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
